@@ -1,5 +1,5 @@
+<h1 align="center">KlasseG Log In</h1>
 <p align="center">
-    <h1>KlasseG Log In</h1>
     <a href="https://choosealicense.com/licenses/mpl-2.0/" target="_blank">
         <img src="https://img.shields.io/badge/License-Mozilla-green"
             alt="License">
