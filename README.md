@@ -16,13 +16,13 @@
 * Yoali Bautista Escobar 
 * Ximena Toledo Rivera
 * Rodrigo Emmanuel Flores Avalos
-* Moises Arroyo Rodriguez
+* Moisés Arroyo Rodríguez
 * Sebastián 
 
 ### Equipo de frontend:
 * Yoali Bautista Escobar 
 * Ximena Toledo Rivera
-* Moisés Isaí Arroyo Rodriguez
+* Moisés Isaí Arroyo Rodríguez
 
 ### Equipo de backend:
 * Rodrigo Emmanuel Flores Avalos
