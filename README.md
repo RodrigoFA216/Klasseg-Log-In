@@ -14,15 +14,15 @@
 
 ## Contribuidores:
 * Yoali Bautista Escobar 
-* Ximena Toledo
+* Ximena Toledo Rivera
 * Rodrigo Emmanuel Flores Avalos
 * Moises Arroyo Rodriguez
 * Sebastián 
 
 ### Equipo de frontend:
 * Yoali Bautista Escobar 
-* Ximena Toledo
-* Moises Arroyo Rodriguez
+* Ximena Toledo Rivera
+* Moisés Isaí Arroyo Rodriguez
 
 ### Equipo de backend:
 * Rodrigo Emmanuel Flores Avalos
