@@ -16,7 +16,7 @@
 * Yoali Bautista Escobar 
 * Ximena Toledo Rivera
 * Rodrigo Emmanuel Flores Avalos
-* Moisés Arroyo Rodríguez
+* Moisés Isaí Arroyo Rodríguez
 * Sebastián 
 
 ### Equipo de frontend:
