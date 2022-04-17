@@ -10,20 +10,14 @@
     </a>
 </p>
 
-## Prototipo para el diseño y debug del Log in a la plataforma KlasseG
+### Prototipo para el diseño y debug del Log in a la plataforma KlasseG
 
 ## Contribuidores:
-* Yoali Bautista Escobar 
-* Ximena Toledo Rivera
-* Rodrigo Emmanuel Flores Avalos
-* Moisés Isaí Arroyo Rodríguez
-* Sebastián 
-
 ### Equipo de frontend:
-* Yoali Bautista Escobar 
-* Ximena Toledo Rivera
-* Moisés Isaí Arroyo Rodríguez
-
+* Yoali Bautista Escobar (front end developer)
+* Ximena Toledo Rivera (UX/UI Designer)
+* Moisés Isaí Arroyo Rodríguez (Interactive web developer)
 ### Equipo de backend:
-* Rodrigo Emmanuel Flores Avalos
-* Sebastián
+* Rodrigo Emmanuel Flores Avalos (Data engineer)
+* Sebastián (Api Service Designer)
+
