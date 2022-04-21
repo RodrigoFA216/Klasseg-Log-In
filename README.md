@@ -21,3 +21,29 @@
 * Rodrigo Emmanuel Flores Avalos (Data engineer)
 * Sebastián (Api Service Designer)
 
+Repositorio: https://github.com/RodrigoFA216/Klasseg-Log-In
+
+Objetivos del prototipo
+===============================
+Front end: Identificar las funcionalidades y módulos necesarios para el diseño de la plataforma tanto en interfaz como en funcionalidad. 
+Back end: Identificar las conexiones y registros para usar la API [sheet.best](https://sheet.best/) para el diseño modular de base de datos y su compatibilidad con el desarrollo de la base de datos de la aplicación principal
+
+Funcionalidad del prototipo
+================================
+Identificar las funciones y la complejidad algorítmica del diseño de las bases de datos específicas para la elaboración del diseño de base de datos a utilizar para todo el proyecto
+
+Desarrollo de prototipo ejecutable
+================================
+
+-User persona: 
+-Wireframes:
+-Screen Flow:
+-Prototipo funcional:
+
+Evaluación del prototipo
+================================
+Profesor (Cliente) y usuarios potenciales (user persona reales)
+
+Desarrollo del prototipo
+================================
+Equipo Front End y equipo Back End
